@@ -1,11 +1,17 @@
-```diff
-- fregata@fregata ~> 
-```
-
-- 👋 Hi, I’m @fregatvogel
-- 👀 I’m interested in gaming + coding
-- 🌱 I’m currently learning python 🐍 and c#
-- 📫 How to reach me: dojimanoryuu @ [discord](https://discord.com "please let me know that you found me on github"), [linkedin](https://www.linkedin.com/in/sonprakiki/)
+<div style="background-color: #111; font-family: monospace;"> 
+<span style="color:#000; background-color: #A80000;"><b>fregata@fregata:</b></span><span style="color: #0C8773;">~</span>$ 
+ 
+<span style="color:#000; background-color: #A80000;"><b>fregata@fregata:</b></span>
+<span style="color: #0C8773;">~</span><span>$ ./about.sh <br/>
+Hi, I’m @fregatvogel<br/>
+I’m interested in gaming + coding<br/>
+I’m currently learning python 🐍 and c#</span><br/>
+<span style="color:#000; background-color: #A80000;"><b>fregata@fregata:</b></span>
+<span style="color: #0C8773;">~</span><span>$ ./contact.sh <br/>
+dojimanoryuu @ [discord](https://discord.com "please let me know that you found me on github"), [linkedin](https://www.linkedin.com/in/sonprakiki/)</span>
+<span style="color:#000; background-color: #A80000;"><b>fregata@fregata:</b></span>
+<span style="color: #0C8773;">~</span><span>$ ./github.sh <br/>
+my school projects can be found [here](https://github.com/0974201)</span></div>
 
 <!---
 thunderedge/thunderedge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
