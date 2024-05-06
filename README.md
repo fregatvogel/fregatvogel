@@ -1,3 +1,7 @@
+```diff
+- fregata@fregata ~> 
+```
+
 - 👋 Hi, I’m @fregatvogel
 - 👀 I’m interested in gaming + coding
 - 🌱 I’m currently learning python 🐍 and c#
