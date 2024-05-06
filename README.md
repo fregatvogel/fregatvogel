@@ -1,11 +1,19 @@
 $\color{#A80000}{\texttt{fregata@fregata:~}}$
+
 $\color{#A80000}{\texttt{fregata@fregata:~ ./about.sh}}$
+
 $\color{#FFF}{\texttt{Hi, I’m @fregatvogel}}$
+
 $\color{#FFF}{\texttt{I’m interested in gaming + coding}}$
+
 $\color{#FFF}{\texttt{I’m currently learning python and c sharp}}$
+
 $\color{#A80000}{\texttt{fregata@fregata:~ ./contact.sh}}$ 
+
 $\color{#FFF}{\texttt{dojimanoryuu @}}$ [discord](https://discord.com), [linkedin](https://www.linkedin.com/in/sonprakiki/)
+
 $\color{#A80000}{\texttt{fregata@fregata:~ ./github.sh}}$
+
 $\color{#FFF}{\texttt{my school projects can be found }}$ [here](https://github.com/0974201)
 
 <!---
