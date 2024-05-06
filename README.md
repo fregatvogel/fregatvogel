@@ -1,14 +1,12 @@
-<div style="background-color: #111; font-family: monospace;"> 
-<span style="color:#000; background-color:#A80000;"><b>fregata@fregata:</b></span><span style="color: #0C8773;">~</span>$ 
- 
-<span style="color:#000; background-color:#A80000;"><b>fregata@fregata:</b></span><span style="color: #0C8773;">~</span><span>$ ./about.sh <br/>
-Hi, I’m @fregatvogel<br/>
-I’m interested in gaming + coding<br/>
-I’m currently learning python 🐍 and c#</span><br/>
-<span style="color:#000; background-color:#A80000;"><b>fregata@fregata:</b></span><span style="color: #0C8773;">~</span><span>$ ./contact.sh <br/>
-dojimanoryuu @ [discord](https://discord.com "please let me know that you found me on github"), [linkedin](https://www.linkedin.com/in/sonprakiki/)</span></br>
-<span style="color:#000; background-color:#A80000;"><b>fregata@fregata:</b></span><span style="color: #0C8773;">~</span><span>$ ./github.sh <br/>
-my school projects can be found [here](https://github.com/0974201)</span></div>
+$\color{#A80000}{\texttt{fregata@fregata:~}}$
+$\color{#A80000}{\texttt{fregata@fregata:~ ./about.sh}}$
+$\color{#FFF}{\texttt{Hi, I’m @fregatvogel}}$
+$\color{#FFF}{\texttt{I’m interested in gaming + coding}}$
+$\color{#FFF}{\texttt{I’m currently learning python and c sharp}}$
+$\color{#A80000}{\texttt{fregata@fregata:~ ./contact.sh}}$ 
+$\color{#FFF}{\texttt{dojimanoryuu @}}$ [discord](https://discord.com), [linkedin](https://www.linkedin.com/in/sonprakiki/)
+$\color{#A80000}{\texttt{fregata@fregata:~ ./github.sh}}$
+$\color{#FFF}{\texttt{my school projects can be found }}$ [here](https://github.com/0974201)
 
 <!---
 thunderedge/thunderedge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
